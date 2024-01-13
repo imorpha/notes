@@ -8,3 +8,5 @@ tags:
 - [[test 2]]
 ### hoora
 :D
+![[Pasted image 20240113155347.png]]
+axe test :D
