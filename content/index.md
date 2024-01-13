@@ -10,4 +10,4 @@ Welcome to the homepage for my notes. I may write about anything and everything 
 - [[I have always known]]
 - [[Facing death]]
 
-- [[The experience of sudden change isn't what actually happens in the brain]]
+- [[Sudden change isn't actually sudden]]
