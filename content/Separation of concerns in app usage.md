@@ -8,8 +8,8 @@ Some apps are all-in-one solutions, like email for foreigners and Telegram for I
 - We save our books in it.
 - We save our music in it.
 - We save important links in it.
-- We create channels and speak in them.
-- We use chats with Afshin as a to-do list.
+- We create channels and write in them.
+- We use it as a to-do list.
 
 This is the opposite of separation of concerns. The problem with this approach is that when these different functions mix, they interfere with each other.
 
