@@ -7,4 +7,4 @@ This type of learning has its pros and cons. The first disadvantage that comes t
 
 Take, for example, writing Evergreen Notes, which are concise, concept-oriented, and adhere to the principle of atomicity. This method of note-taking enhances writing skills for tests like the TOEFL, where a topic sentence in an essay can parallel the title of an Evergreen Note.
 
-However, I struggle to find examples of learning as a side effect outside the realm of language. This might be because language is often the medium through which we achieve and learn anything else. The question then becomes how we should incorporate this approach to learning into other areas that aren't just a means to an end, but the end itself.
+However, I struggle to find examples of learning that are not—or aren't directly related to—language. This might be because language is often the medium through which we achieve and learn everything else. The question then becomes how we should incorporate this approach to learning into other areas that aren't just a means to an end, but the end itself.
