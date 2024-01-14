@@ -21,11 +21,11 @@ Additionally, all this context switching makes the mind more distractible over t
 
 The solution is separation of concerns. That means identifying functions that can work independently and separating them as much as possible.
 
-For example, in Telegram itself, we can use the folder and archive features, or turn off notifications. Or even better, use a different app for each of these tasks: work chats in Slack, personal tasks in Todoist, writing in Obsidian, reading in Omnivore, etc.
+For example, in Telegram itself, we can use the folder and archive features, or turn off notifications. Or even better, use a different app for each of these tasks: work chats in Slack, [[Important features in a planner app|personal tasks in Todoist]], writing in Obsidian, reading in Omnivore, etc.
 
 Once you do this, you realize that apart from the benefits of separation itself, each of these apps, being designed for a specific function, performs that task much better than a multipurpose app.
 
-It's really satisfying that Telegram has these features like folders, archive, and notification management. Some apps, like Instagram, are deliberately designed to mess up your brain. But that's a discussion for another day.
+It's really gratifying that Telegram has these features like folders, archive, and notification management. Some apps, like Instagram, are deliberately designed to mess up your brain. But that's a discussion for another day.
 
 Related:
 - Separation of concerns can also exist in note-taking: Zettelkasten/Evergreen Notes
