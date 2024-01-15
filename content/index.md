@@ -7,6 +7,7 @@ to the homepage for my notes. I may write about anything and everything here, so
 ## Learning
 - [[Learning as a side effect]]
 ## Productivity
+- [[To-do items should be clear and immediately actionable]]
 - [[Separation of concerns in app usage]]
 - [[Important features in a planner app]]
 - [[Instagram lite is the best way to browse instagram]]
