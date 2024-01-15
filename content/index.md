@@ -10,7 +10,7 @@ This is the homepage for my notes. I may write about anything and everything her
 - [[Publishing encourages better writing]]
 ## 📝 Learning
 - [[Learning as a side effect]]
-- [[Attention is the basis for all learning]]
+- [[Attention is the basis for all skills]]
 ## 🧑🏻‍💻 Productivity
 - [[Important features in a planner app]]
 - [[Instagram lite is the best way to browse Instagram]]
