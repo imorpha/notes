@@ -9,6 +9,7 @@ to the homepage for my notes. I may write about anything and everything here, so
 ## Productivity
 - [[Separation of concerns in app usage]]
 - [[Important features in a planner app]]
+- [[Instagram lite is the best way to browse instagram]]
 ## Brain & Psyche
 - [[Sudden change isn't actually sudden]]
 ## Introspection
