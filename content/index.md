@@ -3,7 +3,9 @@ tags:
 title: Home
 ---
 # Welcome 🙋🏻
-This is the homepage for my notes. I may write about anything and everything here, so I will add starting points over time. For now, I will just dump everything here.
+This is the homepage for my notes.
+The Omnivore folder on the explorer, is a collection of what has captured my attention in books or on the web.
+The following, is what I've written organized in different categories:
 ## 💭 Introspection
 - [[Facing death]]
 - [[I have always known]]
