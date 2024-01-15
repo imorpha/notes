@@ -4,7 +4,7 @@ title: Home
 ---
 # Welcome 🙋🏻
 
-This is the homepage for my notes. I may write about anything and everything here, so I will add starting points for easier navigation. For now, here's everything I've written organized in different categories:
+This is the homepage for my notes. I may write about anything and everything here, so I will add starting points for easier navigation in the future. For now, here's everything I've written organized in different categories:
 
 ## 💭 Introspection
 - [[Facing death]]
