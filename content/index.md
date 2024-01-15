@@ -11,7 +11,7 @@ to the homepage for my notes. I may write about anything and everything here, so
 - [[Setting session time limits help with procrastination]]
 - [[Separation of concerns in app usage]]
 - [[Important features in a planner app]]
-- [[Instagram lite is the best way to browse instagram]]
+- [[Instagram lite is the best way to browse Instagram]]
 ## Brain & Psyche
 - [[Sudden change isn't actually sudden]]
 ## Introspection
