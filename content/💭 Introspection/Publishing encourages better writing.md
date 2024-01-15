@@ -1,5 +1,6 @@
 ---
-tags:
+tags: 
+date: 2024-01-15
 ---
 I've come to notice that publishing what I create encourages me to do it more, faster, and better. In the case of writing, it makes me write more clearly and in a more structured way. However, this goes against Andy Matuschak's advice to [write note for yourself by default, disregarding audience](https://notes.andymatuschak.org/zXDPrYcxUSZbF5M8vM5Y1U9). He goes on to state the following:
 

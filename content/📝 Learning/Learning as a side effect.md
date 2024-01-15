@@ -1,5 +1,6 @@
 ---
-tags:
+tags: 
+date: 2024-01-14
 ---
 It's an interesting form of learning, when it happens as a side effect. I for one learned English in a way much similar to a native speaker: at a young age, by trying to understand the dialogue in Warcraft III. As a result, I can now intuitively use certain grammar structures without having formally studied them.
 

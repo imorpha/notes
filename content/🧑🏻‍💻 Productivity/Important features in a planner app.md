@@ -1,6 +1,7 @@
 ---
 tags:
   - productivity
+date: 2024-01-08
 ---
 There are many different task manager apps, each offering various features. However, I've come to notice that none of those bells and whistles are as important as these:
 

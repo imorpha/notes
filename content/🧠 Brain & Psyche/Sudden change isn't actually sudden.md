@@ -1,5 +1,6 @@
 ---
-tags:
+tags: 
+date: 2024-01-14
 ---
 People's experiences with things don't always reflect what's actually going on in their brains.
 

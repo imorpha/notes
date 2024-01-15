@@ -1,5 +1,6 @@
 ---
-tags:
+tags: 
+date: 2024-01-14
 ---
 I have always had a voice in my head, telling me what the right thing to do is at the moment. That voice, however, was largely ignored by me over the years. The voice talks about many things, ranging from doing my TOEFL exercises to my purpose in life. Although, they all share a common theme: living intentionally. I always intend to do something, but I don't.
 

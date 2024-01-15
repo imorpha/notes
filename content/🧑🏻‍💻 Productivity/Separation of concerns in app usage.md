@@ -1,5 +1,6 @@
 ---
-tags:
+tags: 
+date: 2024-01-12
 ---
 The concept of separation of concerns in programming can also be applied to app usage to better manage our attention.
 
