@@ -7,5 +7,3 @@ I've come to notice that publishing what I create encourages me to do it more, f
 > Many of these practices can be somewhat useful as part of your own thinking process—for instance, clearer writing usually involves clearer thinking. But I find it substantially increases the overhead and effort in writing, often to the point of producing blockage.
 
 There haven't been any such blockage for me so far. I _am_ writing notes for myself, but imagining the possibility of someone else reading my notes, encourages me to write more cohesively, which in turn makes me think more clearly.
-
-I currently start writing directly in a publishable form, without any drafts. I have no "private" notes on Obsidian—excluding the actually private ones. This may change in the future; I might need a kind of buffer between what I think and what I publish.
