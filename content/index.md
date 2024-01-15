@@ -7,6 +7,7 @@ This is the homepage for my notes. I may write about anything and everything her
 ## 💭 Introspection
 - [[Facing death]]
 - [[I have always known]]
+- [[Publishing encourages better writing]]
 ## 📝 Learning
 - [[Learning as a side effect]]
 - [[Attention is the basis for all learning]]
