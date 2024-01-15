@@ -9,7 +9,7 @@ to the homepage for my notes. I may write about anything and everything here, so
 ## Productivity
 - [[Separation of concerns in app usage]]
 - [[Important features in a planner app]]
-## Brain & Psychology
+## Brain & Psyche
 - [[Sudden change isn't actually sudden]]
 ## Introspection
 - [[I have always known]]
