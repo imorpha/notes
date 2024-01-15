@@ -6,6 +6,7 @@ omnivore: https://omnivore.app/me/hey-what-s-up-18cf97ed228
 author: Khe Hy
 tags:
   - Newsletter
+draft: false
 ---
 
 ## Highlights
