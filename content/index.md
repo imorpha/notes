@@ -4,15 +4,15 @@ title: Home
 ---
 # Welcome 🙋🏻
 
-This is the homepage for my notes. Following is what I've written organized in different categories:
+This is the homepage for my notes. I may write about anything and everything here, so I will add starting points for easier navigation. For now, here's everything I've written organized in different categories:
 
 ## 💭 Introspection
 - [[Facing death]]
 - [[I have always known]]
 - [[Publishing encourages better writing]]
 ## 📝 Learning
-- [[Learning as a side effect]]
 - [[Attention is the basis for all skills]]
+- [[Learning as a side effect]]
 ## 🧑🏻‍💻 Productivity
 - [[Important features in a planner app]]
 - [[Instagram lite is the best way to browse Instagram]]
