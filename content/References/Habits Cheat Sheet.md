@@ -20,7 +20,8 @@ id: 3c8d8f0c-f7bf-4c25-89ec-72a8cce68d9c
 - Reduce exposure. Remove the cues of your bad 
 habits from your environment.  ^3c0871b1
 
-- Use implementation intentions: “I will [BEHAVIOR] at [TIME] in [LOCATION].” ^a3bbd161
+- Use implementation intentions: “I will [BEHAVIOR] at
+[TIME] in [LOCATION].” ^a3bbd161
 
 - Use habit stacking: “After [CURRENT HABIT], I will 
 [NEW HABIT].”
