@@ -7,6 +7,7 @@ draft: true
 id: 5b780849-e8cb-4092-ab08-f035bea94a26
 ---
 
+Author: Matt Gemmell
 [Read Original](https://mattgemmell.scot/atomic-thoughts/)
 
 # My Highlights
