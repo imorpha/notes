@@ -8,6 +8,7 @@ id: 3c8d8f0c-f7bf-4c25-89ec-72a8cce68d9c
 ---
 
 Author: James Clear
+
 [Read Original](https://omnivore.app/attachments/u/fe3a318c-b068-11ee-84ea-97a69cdc24ff/HabitsCheatSheet.pdf)
 
 # My Highlights

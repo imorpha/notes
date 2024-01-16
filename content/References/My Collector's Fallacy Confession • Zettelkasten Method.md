@@ -8,6 +8,7 @@ id: d8f09d79-3f4c-46e2-bb5c-bc3c9f4de1d9
 ---
 
 Author: christian
+
 [Read Original](https://zettelkasten.de/posts/collectors-fallacy-confession/)
 
 # My Highlights

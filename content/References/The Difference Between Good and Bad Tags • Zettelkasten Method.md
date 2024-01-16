@@ -8,6 +8,7 @@ id: 3c840250-624e-4101-a144-28f8202c1112
 ---
 
 Author: sascha
+
 [Read Original](https://zettelkasten.de/posts/object-tags-vs-topic-tags/)
 
 # My Highlights

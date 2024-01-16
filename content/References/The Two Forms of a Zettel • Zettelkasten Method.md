@@ -8,6 +8,7 @@ id: 7c663463-ebaa-441f-b2ff-ee38ed54ecb2
 ---
 
 Author: sascha
+
 [Read Original](https://zettelkasten.de/posts/zettel-nature-two-forms/)
 
 # My Highlights
