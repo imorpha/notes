@@ -1,6 +1,6 @@
 ---
 tags: 
-date: 
+date: 2024-01-17T12:20:00
 draft: false
 ---
 There are some writers and content creators whose only added values are summarization, simplification, and gathering of scattered information already present in other people's works, for example, James Clear, Tiago Forte, and Ali Abdaal.
