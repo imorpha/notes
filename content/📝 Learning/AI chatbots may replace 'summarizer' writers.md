@@ -3,5 +3,5 @@ tags:
 date: 
 draft: false
 ---
-There are some writers and content creators whose only added values are summarization, simplification, and gathering scattered information already present in other people's works, for example, James Clear, Tiago Forte, and Ali Abdaal.
+There are some writers and content creators whose only added values are summarization, simplification, and gathering of scattered information already present in other people's works, for example, James Clear, Tiago Forte, and Ali Abdaal.
 Take for example, the writing of Andy Matuschak versus that of Tiago Forte. When Andy's work includes some original ideas which are built upon and add to the Zettelkasten method, Tiago's content is just a simplified regurgitation of it. Tiago's work can be already be done by the likes of ChatGPT, [[Transmission Versus Truth, Imitation Versus Innovation|that's not the case]] for Andy.

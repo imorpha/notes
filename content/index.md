@@ -11,8 +11,10 @@ This is the home page for my notes. I may write about anything and everything he
 - [[I have always known]]
 - [[Publishing encourages better writing]]
 ## 📝 Learning
+- [[AI chatbots may replace 'summarizer' writers]]
 - [[Attention is the basis for all skills]]
 - [[Learning as a side effect]]
+- [[Usage of LLM models in knowledge management]]
 ## 🧑🏻‍💻 Productivity
 - [[Important features in a planner app]]
 - [[Instagram lite is the best way to browse Instagram]]
