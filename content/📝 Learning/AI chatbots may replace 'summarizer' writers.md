@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - ai
 date: 2024-01-17T12:20:00
 draft: false
 ---

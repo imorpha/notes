@@ -3,7 +3,7 @@ date: 2024-01-17T09:17:34.000Z
 omnivore: https://omnivore.app/me/improved-translation-of-communications-with-zettelkastens-zettel-18cf818b97e
 author: sascha
 "tags:": UNKNOWN
-draft: false
+draft: true
 id: be6fa585-14f6-4856-ae0f-f47af4d8435c
 ---
 
@@ -12,6 +12,8 @@ Author: sascha
 [Read Original](https://zettelkasten.de/communications-with-zettelkastens/)
 
 # My Highlights
+
+- I. ^43175eec
 
 - Zettelkastens can be recommended as communication partners because of the technical-economic problem of doing science. Without writing, you cannot think; at least not in a sophisticated and scientific way. ^02e14df4
 
@@ -28,6 +30,8 @@ Author: sascha
 - There are two ways for a communication system to maintain its integrity over long periods of time: you need to decide for either highly technical specialisation, or for a setup that incorporates coincidence and _ad hoc_ generated information. Translated to note collections: you can choose a setup categorized by topics, or an open one. ^4d2186b4
 
 - Naturally, a setup of a communicating system that is meant to be enduring, open, and not topically restricted (it is restricted by itself) needs to adhere to certain structural requirements. ^ba26e7c2
+
+- II. ^2d292155
 
 - However, the external form just has an effect on convenience and not the power of the Zettelkasten. The inner workings, the arrangement of the notes, the mind of the Zettelkasten depend on a decision not to order notes by topics and subtopics, and instead choose an order with fixed placement. ^49fb18eb
 
@@ -55,11 +59,13 @@ Author: sascha
 
 - Something will seep away. Some notes you will never see again. On the other hand, there are preferred hubs, cluster formations, and parts with which you work more often than with others. There will be large projected idea complexes that are never realised; and there are minor ideas that enrich themselves and accumulate; starting at a subsidiary part of the text, [6](#fn6) and tending to dominate the system. ^91fe24e6
 
-- To summarise: this technique ensures that the order – which is just _pro forma_ – does not become a mental straightjacket, but adapts itself to the thought development.
+- To summarise: this technique ensures that the order – which is just _pro forma_ – does not become a mental straightjacket, but adapts itself to the thought development. ^2df0944b
 
-Knowledge theory has given up the assumption of “privileged concepts” that function as axiomatic foundations to control the logical value of other concepts or propositions. [7](#fn7) Similarly, you must give up the assumption that there are privileged places, notes of special and knowledge-ensuring quality. ^03d9f6b8
+- Knowledge theory has given up the assumption of “privileged concepts” that function as axiomatic foundations to control the logical value of other concepts or propositions. [7](#fn7) Similarly, you must give up the assumption that there are privileged places, notes of special and knowledge-ensuring quality. ^01e76582
 
 - Each note is just an element that gets its value from being a part of a network of references and cross-references in the system. A note that is not connected to this network will get lost in the Zettelkasten, and will be forgotten by the Zettelkasten. ^b6ba4632
+
+- III. ^2e47c58e
 
 - The Zettelkasten needs a couple of years to reach critical mass. Until then, it is merely a container from which you get what you put in. This changes with increasing size and complexity. ^6f4a73d0
 
@@ -77,9 +83,9 @@ Knowledge theory has given up the assumption of “privileged concepts” that f
 
 - Compared to this structure that offers actualizable connection possibilities, the relevance of the actual content of the note subsides. Much of it quickly becomes useless or is unusable for a concrete occasion. That is true for both collected quotes, which are only worth collecting when they are exceptionally concise, and for your own thoughts. ^d4016824
 
-- Scientific publications thus don’t emerge, at least from my experience, by copying the note content that was intended for publishing. The communication with the Zettelkasten becomes productive only on more abstract way, namely on the sphere of communicative relationing of relations. And it becomes productive only in the moment of evaluation, meaning time-bound and highly incidentally.
+- Scientific publications thus don’t emerge, at least from my experience, by copying the note content that was intended for publishing. The communication with the Zettelkasten becomes productive only on more abstract way, namely on the sphere of communicative relationing of relations. And it becomes productive only in the moment of evaluation, meaning time-bound and highly incidentally. ^871da5c3
 
-###  ^066d4ebd
+- IV. ^2041e16a
 
 - But if you think in evolutionary models, randomness has a prominent role. [9](#fn9) Without it, nothing progresses anyhow. ^2b2a3a1e
 
@@ -89,9 +95,7 @@ Knowledge theory has given up the assumption of “privileged concepts” that f
 
 - The allegory shouldn’t be overused; but you wouldn’t go wrong by assuming that in the social domain, and especially in scientific research, order also emerges from the combination of order and disorder. [10](#fn10) his specification of emergence does not negate scrutinization, it rather enables it. ^c08540af
 
-- Contrary to the old distinction of emergence and validity, nowadays, we assume that it is both impossible and methodologically unsound to isolate these aspects; that is because the generation of random stimuli needs organisation, if only to match the requirements of speed, frequency and success rate posed in a dynamic society.
-
-On this abstract level of communication that is related to the philosophy of science as well as towards empirical research, the Zettelkasten is surely just one of many possibilities. Incidents during reading play a role, and even misunderstandings caused by interdisciplinary thought processes. ^2a602545
+- On this abstract level of communication that is related to the philosophy of science as well as towards empirical research, the Zettelkasten is surely just one of many possibilities. Incidents during reading play a role, and even misunderstandings caused by interdisciplinary thought processes. ^82d30bad
 
 - Last but not least, the traditional “unity of research and education” is a source of friction that generates incidents. We can confirm that communication with Zettelkastens, compared to other options, is a viable solution and has many advantages regarding information density, speed, and mutual amenability. ^90e8ec70
 
