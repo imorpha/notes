@@ -7,7 +7,7 @@ title: Home
 This is the home page for my notes. I may write about anything and everything here, so I will add entry points for easier navigation in the future. For now, here's everything I've written organized in different categories:
 
 ## 💭 Introspection
-- [[Facing death]]
+- [[Memento mori]]
 - [[I have always known]]
 - [[Publishing encourages better writing]]
 ## 📝 Learning

@@ -6,6 +6,6 @@ I have always had a voice in my head, telling me what the right thing to do is a
 
 What makes a person not live according to their values and intentions? It certainly isn't lack of mindfulness, at least not for me. The problem isn't that I'm not aware, because I am. It is just that I don't act on what I know to be right.
 
-Is this due to ingrained habits and the finiteness of willpower? Are we forever shackled to the primal parts of our brains, while the human part is simply too weak to overcome it and take control? Should the [[Sudden change isn't actually sudden|change be gradual and incremental]] over an extended period of time, or do we need a profound, sudden insight—like [[Facing death|facing death]]—to bring about fundamental change? _Can we change?_
+Is this due to ingrained habits and the finiteness of willpower? Are we forever shackled to the primal parts of our brains, while the human part is simply too weak to overcome it and take control? Should the [[Sudden change isn't actually sudden|change be gradual and incremental]] over an extended period of time, or do we need a profound, sudden insight—like [[Memento mori|facing death]]—to bring about fundamental change? _Can we change?_
 
 I may not know any of this, but I know one thing to be true: I can trust that voice more than anything in this world.
