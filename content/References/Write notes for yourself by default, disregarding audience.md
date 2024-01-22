@@ -3,7 +3,7 @@ date: 2024-01-16T08:27:18.000Z
 omnivore: https://omnivore.app/me/https-notes-andymatuschak-org-z-xd-pr-ycx-us-zb-f-5-m-8-v-m-5-y--18cfc06b9a7
 author: Andy Matuschak
 "tags:": ARTICLE
-draft: false
+draft: true
 id: f851f741-b5e1-496a-9d3c-56328704f989
 ---
 

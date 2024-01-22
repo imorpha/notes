@@ -3,7 +3,7 @@ date: 2024-01-17T09:17:34.000Z
 omnivore: https://omnivore.app/me/improved-translation-of-communications-with-zettelkastens-zettel-18cf818b97e
 author: sascha
 "tags:": UNKNOWN
-draft: false
+draft: true
 id: be6fa585-14f6-4856-ae0f-f47af4d8435c
 ---
 
