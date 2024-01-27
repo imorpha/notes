@@ -1,21 +1,21 @@
 ---
 date: 2024-01-23T07:45:51.000Z
 omnivore: https://omnivore.app/me/toefl-reading-time-management-tips-test-resources-18d35444529
-author: 
+author: Michael Goodine
 "tags:": ARTICLE
-draft: true
+draft: false
 id: 47256885-def9-47ca-b2b6-fcbf3c058b59
 ---
 
-Author: 
+Author: Michael Goodine
 
 [Read Original](https://www.toeflresources.com/toefl-reading-five-tips-for-time-management/)
 
 # My Highlights
 
-- For many people, the biggest challenge in this section is time management – with just 54 minutes (three articles) or 72 minutes (four articles) to read all of the articles and answer all of the questions it can bereally difficult to get everything done. ^17d0d917
+- For many people, the biggest challenge in this section is time management – with just 54 minutes (three articles) or 72 minutes (four articles) to read all of the articles and answer all of the questions it can be really difficult to get everything done. ^17d0d917
 
-- Skim the Articles ^3e743642
+## Skim the Articles ^3e743642
 
 - just skim each article for one or two minutes as soon as you see it ^49c4605d
 
@@ -33,9 +33,9 @@ Author:
 
 - Remember that the answers to the first nine questions for each article can be found in just a single paragraph, which is indicated in the question prompt. Look for clues only in that paragraph. ^5be731f5
 
-- ## Skip Questions…
+## Skip Questions…
 
-Remember that you can always move forward and backwards between questions in the reading section. You can even move between the articles. ^9b53411c
+- Remember that you can always move forward and backwards between questions in the reading section. You can even move between the articles. ^9b53411c
 
 - If you are unsure about a specific question, don’t waste too much time thinking about it. ^acfce2e6
 

@@ -1,13 +1,13 @@
 ---
 date: 2024-01-23T07:48:24.000Z
 omnivore: https://omnivore.app/me/toefl-reading-topics-test-resources-18d354a1091
-author: 
+author: Michael Goodine
 "tags:": ARTICLE
 draft: true
 id: 4d932005-0b0b-4158-9490-1a4a9d9ad325
 ---
 
-Author: 
+Author: Michael Goodine
 
 [Read Original](https://www.toeflresources.com/blog/toefl-reading-topics/)
 

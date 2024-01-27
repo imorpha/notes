@@ -1,13 +1,13 @@
 ---
 date: 2024-01-23T07:53:01.000Z
 omnivore: https://omnivore.app/me/toefl-reading-and-listening-raw-to-scaled-scores-conversion-test-18d354ceeab
-author: 
+author: Michael Goodine
 "tags:": ARTICLE
-draft: true
+draft: false
 id: eec6a523-4428-4a8a-9638-8a94ea54c39b
 ---
 
-Author: 
+Author: Michael Goodine
 
 [Read Original](https://www.toeflresources.com/toefl-reading-and-listening-raw-to-scaled-scores-conversion/)
 
@@ -20,8 +20,5 @@ Author:
 - The difficulty of a given test is determined through a process called equating. In practice, this means that each test contains questions that have been “pre-tested” in the past. ^47256e2f
 
 - How about the Speaking and Writing Sections?
-Oh, who the f–k knows? I’ll write an article about them in the future, but now that the e-rater and SpeechRater are used it is impossible to know exactly how the questions are graded. We know how about the raw scores from human graders, but the AI technology is mysterious. We don’t even know how the human and AI are weighed. Just note that the speaking and writing scores are adjusted up and down depending on the difficulty of a given test. I think. ^032a7d4c
-
-- How about the Speaking and Writing Sections?
-Oh, who the f–k knows? I’ll write an article about them in the future, but now that the e-rater and SpeechRater are used it is impossible to know exactly how the questions are graded. We know how about the raw scores from human graders, but the AI technology is mysterious. We don’t even know how the human and AI are weighed. Just note that the speaking and writing scores are adjusted up and down depending on the difficulty of a given test. I think. ^1dbfab15
+	- Oh, who the f–k knows? I’ll write an article about them in the future, but now that the e-rater and SpeechRater are used it is impossible to know exactly how the questions are graded. We know how about the raw scores from human graders, but the AI technology is mysterious. We don’t even know how the human and AI are weighed. Just note that the speaking and writing scores are adjusted up and down depending on the difficulty of a given test. I think. ^032a7d4c
 
