@@ -13,7 +13,7 @@ Author: sascha
 
 # My Highlights
 
-## I. ^43175eec
+## I.
 
 - Zettelkastens can be recommended as communication partners because of the technical-economic problem of doing science. Without writing, you cannot think; at least not in a sophisticated and scientific way. ^02e14df4
 
@@ -31,7 +31,7 @@ Author: sascha
 
 - Naturally, a setup of a communicating system that is meant to be enduring, open, and not topically restricted (it is restricted by itself) needs to adhere to certain structural requirements. ^ba26e7c2
 
-## II. ^2d292155
+## II.
 
 - However, the external form just has an effect on convenience and not the power of the Zettelkasten. The inner workings, the arrangement of the notes, the mind of the Zettelkasten depend on a decision not to order notes by topics and subtopics, and instead choose an order with fixed placement. ^49fb18eb
 
@@ -65,7 +65,7 @@ Author: sascha
 
 - Each note is just an element that gets its value from being a part of a network of references and cross-references in the system. A note that is not connected to this network will get lost in the Zettelkasten, and will be forgotten by the Zettelkasten. ^b6ba4632
 
-## III. ^2e47c58e
+## III.
 
 - The Zettelkasten needs a couple of years to reach critical mass. Until then, it is merely a container from which you get what you put in. This changes with increasing size and complexity. ^6f4a73d0
 
@@ -85,7 +85,7 @@ Author: sascha
 
 - Scientific publications thus don’t emerge, at least from my experience, by copying the note content that was intended for publishing. The communication with the Zettelkasten becomes productive only on more abstract way, namely on the sphere of communicative relationing of relations. And it becomes productive only in the moment of evaluation, meaning time-bound and highly incidentally. ^871da5c3
 
-## IV. ^2041e16a
+## IV.
 
 - But if you think in evolutionary models, randomness has a prominent role. [9](#fn9) Without it, nothing progresses anyhow. ^2b2a3a1e
 

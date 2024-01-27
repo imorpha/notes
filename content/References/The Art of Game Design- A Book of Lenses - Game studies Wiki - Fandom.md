@@ -13,11 +13,11 @@ Author: Jesse Schell
 
 # My Highlights
 
-## Chapter 1: In the Beginning, There is the Designer ^ab6f165f
+## Chapter 1: In the Beginning, There is the Designer
 
 - However, the skill most important to Schell is listening – the empathy and attention any good game designer needs to give to their design team, their audience, their games, their clients, and themselves ^6c6c3477
 
-## Chapter 2: The Designer Creates an Experience ^c5b0ec8e
+## Chapter 2: The Designer Creates an Experience
 
 - the end goal of games: the experiences they create ^d05b61c4
 
@@ -27,13 +27,13 @@ Author: Jesse Schell
 
 - Finding an essential experience for the game to try to emulate is thus one of the most important aspects of game design, and becomes his first [lens](http://artofgamedesign.com/cards/lenses.htm). ^6d29b70e
 
-## Chapter 3: The Experience Rises Out of a _Game_ ^8a5228f3
+## Chapter 3: The Experience Rises Out of a _Game_
 
 - Having established the link between the designer and essential experience, Schell begins to pick apart the connection between them: the [game](https://game-studies.fandom.com/wiki/Game "Game") itself. ^8704835b
 
 - “**a game is a problem solving activity, approached with a playful attitude**” ^e0f89086
 
-## Chapter 4: The Game Consists of _Elements_ ^60a75d88
+## Chapter 4: The Game Consists of _Elements_
 
 - [Mechanics](https://game-studies.fandom.com/wiki/Mechanics "Mechanics"), [Story](https://game-studies.fandom.com/wiki/Story "Story"), [Aesthetics](https://game-studies.fandom.com/wiki/Aesthetics "Aesthetics"), and [Technology](https://game-studies.fandom.com/wiki/Technology "Technology"). Schell calls this the [Elemental Tetrad](https://game-studies.fandom.com/wiki/Game "Game") ^8f4dd757
 
@@ -41,17 +41,17 @@ Author: Jesse Schell
 
 - a designer needs to have “holographic vision” while designing, so that they can see not only these four perspectives and how they interact behind the scenes in a game, but also what the player experiences directly. ^9ba11469
 
-## Chapter 5: The Elements Support a _Theme_ ^9290b6c5
+## Chapter 5: The Elements Support a _Theme_
 
 - “Figuring out a theme and using every means to support that theme” (49). "Every means" includes every element in Schell's Elemental Tetrad: [technology](https://game-studies.fandom.com/wiki/Technology "Technology"), [mechanics](https://game-studies.fandom.com/wiki/Mechanics "Mechanics"), [story](https://game-studies.fandom.com/wiki/Story "Story"), and [aesthetics](https://game-studies.fandom.com/wiki/Aesthetics "Aesthetics"). ^b42bf748
 
 - The best themes have what Schell calls “[resonance](https://game-studies.fandom.com/wiki/Resonance "Resonance"),” ideas that touch players deeply by fulfilling their fantasies (experience based theme) or affirming a powerful idea the player holds to be universally true, like “love conquers all” (truth based theme) ^8b7b8e6a
 
-## Chapter 6: The Game Begins with an _Idea_ ^a822a3d3
+## Chapter 6: The Game Begins with an _Idea_
 
 - outlines the process of inspiration and idea formulation in general, providing tips on how to manage one’s creative subconscious (“Your Silent Partner,” 63) and how to brainstorm effectively (68-74). ^2b9a13c5
 
-## Chapter 7: The Game Improves Through _Iteration_ ^09fe2a29
+## Chapter 7: The Game Improves Through _Iteration_
 
 - the most effective way of making a game better is through building a rough prototype and actually testing it out. ^2632c410
 
@@ -61,7 +61,7 @@ Author: Jesse Schell
 
 - a gradual approach is key to any successful design, games or otherwise ^915b354c
 
-## Chapter 8: The Game is Made for a _Player_ ^0919c6df
+## Chapter 8: The Game is Made for a _Player_
 
 - He takes a very pragmatic approach to these issues, basing his [lists of masculine and feminine interests in games](https://game-studies.fandom.com/wiki/Gender%5FDemographics "Gender Demographics") on sales statistics and general psychological studies. ^23cfe9be
 
@@ -69,7 +69,7 @@ Author: Jesse Schell
 
 - “Knowing your players more intimately,” Schell concludes, “is the key to giving them a game they will enjoy,” ^cbf9df23
 
-## Chapter 9: The Experience is in the _Player's Mind_ ^a6e0b5ae
+## Chapter 9: The Experience is in the _Player's Mind_
 
 - The first section, "[Modelling](https://game-studies.fandom.com/wiki/Chunking "Chunking")", points out how the brain processes the complexities of reality through essentializing images and information, cutting them down to their most basic elements in order to understand them. ^bcace246
 
@@ -83,13 +83,13 @@ Author: Jesse Schell
 
 - Finally, Schell ends the chapter with a brief emphasis on the fourth level of Maslow’s hierarchy – self-esteem – and how games provide areas for safe and fair judgment that fulfill this innate human need (128). ^28486cac
 
-## Chapter 10: Some Elements are Game _Mechanics_ ^2eb9ac05
+## Chapter 10: Some Elements are Game _Mechanics_
 
 - According to Schell, there are six categories of game [mechanics](https://game-studies.fandom.com/wiki/Mechanics "Mechanics"): space, objects, actions, [rules](https://game-studies.fandom.com/wiki/Rules "Rules"), skill, and chance. ^9c37e091
 
 - This leads to a brief discussion of [emergence](https://game-studies.fandom.com/wiki/Emergent%5FSystems "Emergent Systems") – how simple actions can combine to make complex phenomena – and how to foster emergence in a given game. ^71881c97
 
-## Chapter 11: Game Mechanics Must be in _Balance_ ^e4425175
+## Chapter 11: Game Mechanics Must be in _Balance_
 
 - game balance, a nuanced practice Schell describes as “the most artful part of game design” ^89548f4a
 
@@ -99,13 +99,13 @@ Author: Jesse Schell
 
 - balancing is more about a game’s “feel” than any formulaic assessment ^6b9e04bb
 
-## Chapter 12: Game Mechanics Support _Puzzles_ ^9e3817d9
+## Chapter 12: Game Mechanics Support _Puzzles_
 
 - He defines a puzzle as “a game with a dominant strategy” early on in the chapter (209), emphasizing how puzzles are solvable and lose their appeal after they are solved (unlike most games.) ^bd3d544e
 
 - ten principles for making good puzzles that enhance rather than interrupt a game’s experience. ^a35e715a
 
-## Chapter 13: Players Play Games Through an _Interface_ ^b576d9d5
+## Chapter 13: Players Play Games Through an _Interface_
 
 - the interaction between the player, the game world, and the real world. ^4898d8b7
 
@@ -113,7 +113,7 @@ Author: Jesse Schell
 
 - a good interface provides good feedback, gives the player a lot of satisfying control (he calls this “juiciness”), and communicates all the information necessary to play the game. ^87c48d85
 
-## Chapter 14: Experiences Can be Judged by Their _Interest Curves_ ^39c30140
+## Chapter 14: Experiences Can be Judged by Their _Interest Curves_
 
 - A good game (or any good experience) has a dynamic interest curve, with peaks and valleys of interest leading to a climactic end, similar to the rising action/falling action construction of many books, plays, or movies. ^baf252e1
 
@@ -121,7 +121,7 @@ Author: Jesse Schell
 
 - since not all games are linear, how can a designer control a player’s interest (260)? ^15729286
 
-## Chapter 15: One Kind of Experience is the _Story_ ^3620ae2c
+## Chapter 15: One Kind of Experience is the _Story_
 
 - “Historically,” according to Schell, “stories have been single-threaded experiences that can be enjoyed by an individual, and games have been experiences with many possible outcomes enjoyed by a group” (262). This all changed with the advent of single player computer games, which married story and gameplay and sparked an ongoing debate between which ought to have precedence in game studies (game-centric ludology vs. story-centric narratology.) ^d63a05b4
 
@@ -141,7 +141,7 @@ Author: Jesse Schell
 
 - Schell does not believe the dream should be abandoned, just refocused on experiences over story (270). ^e8017926
 
-## Chapter 16: Story and Game Structures can be Artfully Merged with _Indirect Control_ ^ccfe094c
+## Chapter 16: Story and Game Structures can be Artfully Merged with _Indirect Control_
 
 - Though Schell holds that freedom (or at least the illusion of it) is an important aspect of games in general, he holds that designers can manipulate a player’s experience through methods of [indirect control](https://game-studies.fandom.com/wiki/Indirect%5FControl "Indirect Control"). ^f70bdc82
 
@@ -151,13 +151,13 @@ Author: Jesse Schell
 
 - Used correctly, these methods can give the designer some control over the player’s experience of the game, while still making the player feel as if they have a sense of freedom. ^d3482b9d
 
-## Chapter 17: Stories and Games Take Place in _Worlds_ ^b1f5eb7d
+## Chapter 17: Stories and Games Take Place in _Worlds_
 
 - Schell borrows from theorist Henry Jenkins when he says that worlds are transmedial: they extended outward beyond the medium they were originally composed for through the strength of their aesthetic and thematic draw (Schell 301). ^ac8f1977
 
 - When viewed from this perspective, games are doorways into a “magic place that exists only in the imaginations of \[the player\],” another aspect to consider when creating stories for games (307). ^2d1e7071
 
-## Chapter 18: Worlds Contain _Characters_ ^5bd578fd
+## Chapter 18: Worlds Contain _Characters_
 
 - compared to the mental, realistic, and complex characters of novels and film, many game characters tend to be involved in more physical conflicts, tied to more fantastic worlds, and are often portrayed in more simple terms (311). ^25fd3b0b
 
@@ -177,7 +177,7 @@ Author: Jesse Schell
 
 - designers have more freedom to create in a virtual world, but run into troubles that come from working with non-real materials such as inconsistent unit sizes and making things look realistic in a third person or top down perspective. ^2a3d937c
 
-## Chapter 20: The Look and Feel of a World Is Defined by Its _Aesthetics_ ^9a31c17d
+## Chapter 20: The Look and Feel of a World Is Defined by Its _Aesthetics_
 
 - aesthetics are important to game design for multiple reasons, including providing a hook, increasing immersion, and just providing pleasure to the player (347). ^a44a663e
 
@@ -185,13 +185,13 @@ Author: Jesse Schell
 
 - That being said, unlike in many other mediums, technical limitations must be taken into account throughout the process and often the final aesthetic arises from quirks in the technology. ^d341d31a
 
-## Chapter 21: Some Games are Played with _Other Players_ ^b635dd5a
+## Chapter 21: Some Games are Played with _Other Players_
 
 - competition, collaboration, meeting up, exploring our friends, and exploring ourselves. ^428701f6
 
 - Though multiplayer experiences can fulfill many innate social needs through any of these methods, Schell cautions that adding multiplayer features make any game project significantly more complicated, and should be approached with care. ^41bed521
 
-## Chapter 22: Other Players Sometimes Form _Communities_ ^469741bc
+## Chapter 22: Other Players Sometimes Form _Communities_
 
 - Amy Jo Kim’s succinct definition of community: “a group of people with a shared interest, purpose, or goal who get to know each other better over time” (358). ^93a9e393
 
@@ -199,7 +199,7 @@ Author: Jesse Schell
 
 - focus on integrating different player types into the community and preventing bad behavior among players (mainly through methods of indirect control.) ^9c0a52ae
 
-## Chapter 23: The Designer Usually Works with a _Team_ ^d497d51a
+## Chapter 23: The Designer Usually Works with a _Team_
 
 - focuses on the production cycle, beginning with how to work in teams. ^deb2cd53
 
@@ -211,7 +211,7 @@ Author: Jesse Schell
 
 - there is no single format for a master game design document, so it is up to each designer to ensure that the team receives documentation that keeps records in a clear and concise manner. ^719a23e5
 
-## Chapter 25: Good Games Are Created Through _Playtesting_ ^ea5653dc
+## Chapter 25: Good Games Are Created Through _Playtesting_
 
 - Following from the philosophy that the best games are tested through multiple iterations ^180055f0
 
@@ -219,7 +219,7 @@ Author: Jesse Schell
 
 - tips on when and where a playtest should be held, whom it should be done by, and how to effectively evaluate testers without interrupting the experience. ^f467e1cb
 
-## Chapter 26: The Team Builds a Game with _Technology_ ^0ab400ed
+## Chapter 26: The Team Builds a Game with _Technology_
 
 - The last part of the [Elemental Tetrad](https://game-studies.fandom.com/wiki/Game "Game") to be treated, Schell spends this chapter exploring the issues that arise from [Technology](https://game-studies.fandom.com/wiki/Technology "Technology"). ^0ceb0a2c
 
@@ -229,25 +229,25 @@ Author: Jesse Schell
 
 - Schell advocated for determining what technology is needed to create a given game experience before trying to integrate a new system surrounded by hype (i.e. motion controls), as this will ultimately lead to a more unified experience. ^6816583b
 
-## Chapter 27: Your Game Will Probably Have a _Client_ ^9e4acf30
+## Chapter 27: Your Game Will Probably Have a _Client_
 
 - tips for positive communication with those who may not understand the ins and outs of game design. ^691a2d3e
 
 - it is good to make the client feel as though they are part of the creative process in some capacity, even if their ideas do not end up getting implemented. ^5439a762
 
-## Chapter 28: The Designer Gives the Client a _Pitch_ ^a71df3d7
+## Chapter 28: The Designer Gives the Client a _Pitch_
 
 - tips for the business side of game design, namely refining a short, interesting pitch about the game to win over clients. ^ae601b8d
 
 - Schell’s general piece of advice it getting to know the audience and tailoring the information to their needs and interests. ^f3f7b592
 
-## Chapter 29: The Designer and the Client Want the Game to Make a _Profit_ ^9d1c9562
+## Chapter 29: The Designer and the Client Want the Game to Make a _Profit_
 
 - the economics of game design: who is involved with game production, what proportion of the proceeds go to each producer, and how to approach business situations. ^ab42b69b
 
 - financial jargon to help would-be designers seem more capable in the boardroom (437-438). ^64e57e43
 
-## Chapter 30: Games _Transform_ Their Players ^ce283d94
+## Chapter 30: Games _Transform_ Their Players
 
 - the transformative power of games, especially in a psychological and educational context. ^93541533
 
@@ -259,7 +259,7 @@ Author: Jesse Schell
 
 - games, taken independently, almost certainly do not encourage these behaviors, but that does not mean a designer ought to disregard these concerns. Instead, a designer needs to act responsibly and be aware of what impact they could be making. ^e878bb4a
 
-## Chapter 31: Designers Have Certain _Responsibilities_ ^1b1c2c97
+## Chapter 31: Designers Have Certain _Responsibilities_
 
 - a call to all would-be game designers to take their intended profession seriously. ^4e65791a
 
@@ -267,7 +267,7 @@ Author: Jesse Schell
 
 - Part of being a game designer, to Schell, is trying to find the “hidden agenda” lurking within each game (456). This is not an attempt to dodge controversy, but an understanding that “games are not just trivial amusements” (456). They are impactful, and a designer is responsible for much of this impact. ^3df503e8
 
-## Chapter 32: Each Designer has a _Motivation_ ^1b57d7c5
+## Chapter 32: Each Designer has a _Motivation_
 
 - a personal send-off which encourages the reader to find their own motivation for making games and stick by it in order to reach their true potential as a game designer. ^1aeb5498
 
