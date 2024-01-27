@@ -3,7 +3,7 @@ date: 2024-01-17T08:46:41.000Z
 omnivore: https://omnivore.app/me/transmission-versus-truth-imitation-versus-innovation-what-child-18d120e8c8c
 author: Eunice Yiu, Eliza Kosoy, Alison Gopnik
 "tags:": ARTICLE
-draft: true
+draft: false
 id: 89231a26-5035-45e5-a18f-be12f6a3fbc8
 ---
 
