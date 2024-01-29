@@ -1,11 +1,9 @@
 ---
-date: 
-omnivore: https://omnivore.app/me/the-art-of-game-design-a-book-of-lenses-game-studies-wiki-fandom-18d31099618
-author: 
 id: 6c6e3039-b5b1-418f-9ba2-f352dfc52c4e
+tags:
+  - obsidian
 ---
 
-#obsidian 
 Author: 
 
 [Read Original](https://game-studies.fandom.com/wiki/The_Art_of_Game_Design:_A_Book_of_Lenses)

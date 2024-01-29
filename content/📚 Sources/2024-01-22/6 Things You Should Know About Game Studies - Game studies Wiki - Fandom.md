@@ -1,11 +1,9 @@
 ---
-date: 2024-01-22T09:05:17.000Z
-omnivore: https://omnivore.app/me/6-things-you-should-know-about-game-studies-game-studies-wiki-fa-18d3065df7d
-author: 
 id: c61d174a-313a-452b-b40c-be5df29c6508
+tags:
+  - obsidian
 ---
 
-#obsidian 
 Author: 
 
 [Read Original](https://game-studies.fandom.com/wiki/6_Things_You_Should_Know_About_Game_Studies)

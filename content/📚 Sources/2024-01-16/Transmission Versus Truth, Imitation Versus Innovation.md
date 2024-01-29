@@ -1,11 +1,11 @@
 ---
-date: 2024-01-17T08:46:41.000Z
-omnivore: https://omnivore.app/me/transmission-versus-truth-imitation-versus-innovation-what-child-18d120e8c8c
-author: Eunice Yiu, Eliza Kosoy, Alison Gopnik
 id: 89231a26-5035-45e5-a18f-be12f6a3fbc8
+author: Eunice Yiu, Eliza Kosoy, Alison Gopnik
+tags:
+  - obsidian
+  - ai
 ---
 
-#obsidian #ai 
 Author: Eunice Yiu, Eliza Kosoy, Alison Gopnik
 
 [Read Original](https://journals.sagepub.com/doi/full/10.1177/17456916231201401)

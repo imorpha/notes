@@ -1,11 +1,9 @@
 ---
-date: 2024-01-12T10:18:44.000Z
-omnivore: https://omnivore.app/me/https-notes-andymatuschak-org-z-n-uai-ga-xp-21-eors-er-1-jm-9-y--18cfc0595ea
-author: 
 id: a467919b-2c81-41ff-946a-1e1167594061
+tags:
+  - obsidian
 ---
 
-#obsidian 
 Author: 
 
 [Read Original](https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU)

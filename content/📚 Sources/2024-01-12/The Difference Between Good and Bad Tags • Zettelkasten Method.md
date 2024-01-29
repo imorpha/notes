@@ -1,11 +1,10 @@
 ---
-date: 2024-01-12T14:19:16.000Z
-omnivore: https://omnivore.app/me/https-zettelkasten-de-posts-object-tags-vs-topic-tags-18cfe058dc2
-author: sascha
 id: 3c840250-624e-4101-a144-28f8202c1112
+author: sascha
+tags:
+  - obsidian
 ---
 
-#obsidian 
 Author: sascha
 
 [Read Original](https://zettelkasten.de/posts/object-tags-vs-topic-tags/)

@@ -1,11 +1,11 @@
 ---
-date: 2024-01-17T09:17:34.000Z
-omnivore: https://omnivore.app/me/improved-translation-of-communications-with-zettelkastens-zettel-18cf818b97e
-author: sascha
 id: be6fa585-14f6-4856-ae0f-f47af4d8435c
+author: sascha
+tags:
+  - note-taking
+  - obsidian
 ---
 
-#note-taking #obsidian 
 Author: sascha
 
 [Read Original](https://zettelkasten.de/communications-with-zettelkastens/)
@@ -26,7 +26,7 @@ Author: sascha
 
 - This requires randomness to be built into the system. “Randomness” means: It is not guaranteed that the comparison schemata match or that the information that is transmitted by the communication [2](#fn2) are accurate, but that information is created through the interaction of both partners. ^85c5a6a2
 
-- There are two ways for a communication system to maintain its integrity over long periods of time: you need to decide for either highly technical specialization, or for a setup that incorporates coincidence and _ad hoc_ generated information. Translated to note collections: you can choose a setup categorized by topics, or an open one. ^4d2186b4
+- There are two ways for a communication system to maintain its integrity over long periods of time: you need to decide for either highly technical specialisation, or for a setup that incorporates coincidence and _ad hoc_ generated information. Translated to note collections: you can choose a setup categorized by topics, or an open one. ^4d2186b4
 
 - Naturally, a setup of a communicating system that is meant to be enduring, open, and not topically restricted (it is restricted by itself) needs to adhere to certain structural requirements. ^ba26e7c2
 

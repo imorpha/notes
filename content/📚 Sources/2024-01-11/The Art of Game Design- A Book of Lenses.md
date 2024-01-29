@@ -1,11 +1,11 @@
 ---
-date: 2024-01-18T21:05:10.000Z
-omnivore: https://omnivore.app/me/u-28-d-359-f-0-b-078-11-ee-9-f-59-f-383-ecfb-7-a-89-the-artof-ga-18cf85f9326
-author: Jesse Schell
 id: 61edeedb-fdec-42f5-8b84-ec5c6179adc6
+author: Jesse Schell
+tags:
+  - game-design
+  - obsidian
 ---
 
-#game-design #obsidian 
 Author: Jesse Schell
 
 [Read Original](https://omnivore.app/attachments/u/28d359f0-b078-11ee-9f59-f383ecfb7a89/TheArtofGameDesign-ABookofLenses-JesseSchell.pdf)
