@@ -1,11 +1,9 @@
 ---
-draft: true
+draft: false
 ---
-this has 2 benefits:
-1. it opens me up to change and to not resist it.
-2. doesn't limit my behavior to only certain things.
-example:
-- in painting, i enjoy the color aspect so much. with this, i can make one of two possible conclusions:
-	1. i am a person who loves color in painting above all else
-	2. it just means that i love working with color at this moment. it doesn't say anything about other aspects and it doesn't mean that it won't change in the future. i may start liking other things when i experience them.
+People have a tendency to attach their identity to their interests and also things they find unattractive. Avoiding this behavior, has some benefits: It **opens you up to change** and helps you not resist it when the need comes, and **doesn't put limits** on the set of behaviors that you think you are able to do.
+
+For example, when you enjoy X, instead of going with the thought that you are the kind of person that enjoys X, just acknowledge the experience of enjoyment in that moment and move on. Because there might come a time where you don't enjoy X anymore or enjoy things completely opposite to it. In this case, there won't be a blow to your sense of identity.
+
+
 
