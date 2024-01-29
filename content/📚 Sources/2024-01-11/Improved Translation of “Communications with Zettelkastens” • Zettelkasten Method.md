@@ -2,24 +2,23 @@
 date: 2024-01-17T09:17:34.000Z
 omnivore: https://omnivore.app/me/improved-translation-of-communications-with-zettelkastens-zettel-18cf818b97e
 author: sascha
-"tags:": UNKNOWN
-draft: false
 id: be6fa585-14f6-4856-ae0f-f47af4d8435c
 ---
 
+#note-taking #obsidian 
 Author: sascha
 
 [Read Original](https://zettelkasten.de/communications-with-zettelkastens/)
 
 # My Highlights
 
-## I.
+- I. ^43175eec
 
 - Zettelkastens can be recommended as communication partners because of the technical-economic problem of doing science. Without writing, you cannot think; at least not in a sophisticated and scientific way. ^02e14df4
 
 - You have to highlight differences somehow and record distinctions either explicitly or embedded in concepts; only the hereby secured consistency of the schema that produces information guarantees the coherence of the subsequent information processing. ^f3e6fe43
 
-- It is an obligatory condition for communication that both partners can ==surprise each other==. Only in that way can information be created in the respective other. ^9b25e61d
+- It is an obligatory condition for communication that both partners can surprise each other. Only in that way can information be created in the respective other. ^9b25e61d
 
 - Information is an event that happens inside the system. Information is created when a message, an entry \[of a note\], is compared with other possibilities. Therefore, information is only created in systems that possess a comparison schema (even when this schema is merely: “this or something else”). ^cf3c2959
 
@@ -31,7 +30,7 @@ Author: sascha
 
 - Naturally, a setup of a communicating system that is meant to be enduring, open, and not topically restricted (it is restricted by itself) needs to adhere to certain structural requirements. ^ba26e7c2
 
-## II.
+- II. ^2d292155
 
 - However, the external form just has an effect on convenience and not the power of the Zettelkasten. The inner workings, the arrangement of the notes, the mind of the Zettelkasten depend on a decision not to order notes by topics and subtopics, and instead choose an order with fixed placement. ^49fb18eb
 
@@ -65,7 +64,7 @@ Author: sascha
 
 - Each note is just an element that gets its value from being a part of a network of references and cross-references in the system. A note that is not connected to this network will get lost in the Zettelkasten, and will be forgotten by the Zettelkasten. ^b6ba4632
 
-## III.
+- III. ^2e47c58e
 
 - The Zettelkasten needs a couple of years to reach critical mass. Until then, it is merely a container from which you get what you put in. This changes with increasing size and complexity. ^6f4a73d0
 
@@ -85,7 +84,7 @@ Author: sascha
 
 - Scientific publications thus don’t emerge, at least from my experience, by copying the note content that was intended for publishing. The communication with the Zettelkasten becomes productive only on more abstract way, namely on the sphere of communicative relationing of relations. And it becomes productive only in the moment of evaluation, meaning time-bound and highly incidentally. ^871da5c3
 
-## IV.
+- IV. ^2041e16a
 
 - But if you think in evolutionary models, randomness has a prominent role. [9](#fn9) Without it, nothing progresses anyhow. ^2b2a3a1e
 

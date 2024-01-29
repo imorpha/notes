@@ -2,11 +2,10 @@
 date: 2024-01-11T17:16:08.000Z
 omnivore: https://omnivore.app/me/the-two-forms-of-a-zettel-zettelkasten-method-18cf81be2d1
 author: sascha
-"tags:": UNKNOWN
-draft: true
 id: 7c663463-ebaa-441f-b2ff-ee38ed54ecb2
 ---
 
+#note-taking #obsidian 
 Author: sascha
 
 [Read Original](https://zettelkasten.de/posts/zettel-nature-two-forms/)

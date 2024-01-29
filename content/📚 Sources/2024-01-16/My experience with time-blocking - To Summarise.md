@@ -2,11 +2,10 @@
 date: 2024-01-16T17:20:19.000Z
 omnivore: https://omnivore.app/me/my-experience-with-time-blocking-to-summarise-18d12bda982
 author: To Summarise
-"tags:": ARTICLE
-draft: true
 id: 8a194927-cf44-4ae8-8718-cfe2222e57cf
 ---
 
+#obsidian 
 Author: To Summarise
 
 [Read Original](https://www.tosummarise.com/my-experience-with-time-blocking/)

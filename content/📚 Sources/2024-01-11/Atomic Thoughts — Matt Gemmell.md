@@ -2,11 +2,10 @@
 date: 2024-01-11T15:15:06.000Z
 omnivore: https://omnivore.app/me/atomic-thoughts-matt-gemmell-18cf85a67b5
 author: Matt Gemmell
-"tags:": UNKNOWN
-draft: true
 id: 5b780849-e8cb-4092-ab08-f035bea94a26
 ---
 
+#note-taking #obsidian 
 Author: Matt Gemmell
 
 [Read Original](https://mattgemmell.scot/atomic-thoughts/)

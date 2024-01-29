@@ -2,11 +2,10 @@
 date: 2024-01-11T20:20:07.000Z
 omnivore: https://omnivore.app/me/my-collector-s-fallacy-confession-zettelkasten-method-18cf81e0ae2
 author: christian
-"tags:": UNKNOWN
-draft: true
 id: d8f09d79-3f4c-46e2-bb5c-bc3c9f4de1d9
 ---
 
+#note-taking #obsidian 
 Author: christian
 
 [Read Original](https://zettelkasten.de/posts/collectors-fallacy-confession/)
