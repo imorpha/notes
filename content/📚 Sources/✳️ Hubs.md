@@ -3,7 +3,7 @@ tags:
 date: 
 draft: false
 ---
-Here is a collection of valuable, comprehensive, quality educational content I've found on the web:
+Here are collections of valuable, comprehensive, quality educational content I've found on the web:
 
 # Mathematics
 
