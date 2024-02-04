@@ -8,7 +8,6 @@ This is the home page for my notes. I may write about anything and everything he
 
 ## 💭 Introspection
 - [[Memento mori]]
-- [[I have always known]]
 - [[Publishing encourages better writing]]
 ## 📝 Learning
 - [[AI chatbots may replace 'summarizer' writers]]
