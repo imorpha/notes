@@ -14,7 +14,4 @@ Here are collections of valuable, comprehensive, quality educational content I'v
 - [Draw a Box](https://drawabox.com/)
 - [Ctrl + Paint](https://www.ctrlpaint.com/library/)
 
-# 📖 Book Summaries
-
-- [To Summarise](https://www.tosummarise.com/all-summaries/)
-
+[[📖 Book Summaries]]

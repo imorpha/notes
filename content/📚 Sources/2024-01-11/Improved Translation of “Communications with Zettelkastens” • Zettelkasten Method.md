@@ -5,14 +5,13 @@ tags:
   - note-taking
   - obsidian
 ---
-
 Author: sascha
 
 [Read Original](https://zettelkasten.de/communications-with-zettelkastens/)
 
 # My Highlights
 
-- I. ^43175eec
+## I. ^43175eec
 
 - Zettelkastens can be recommended as communication partners because of the technical-economic problem of doing science. Without writing, you cannot think; at least not in a sophisticated and scientific way. ^02e14df4
 
@@ -26,11 +25,11 @@ Author: sascha
 
 - This requires randomness to be built into the system. “Randomness” means: It is not guaranteed that the comparison schemata match or that the information that is transmitted by the communication [2](#fn2) are accurate, but that information is created through the interaction of both partners. ^85c5a6a2
 
-- There are two ways for a communication system to maintain its integrity over long periods of time: you need to decide for either highly technical specialisation, or for a setup that incorporates coincidence and _ad hoc_ generated information. Translated to note collections: you can choose a setup categorized by topics, or an open one. ^4d2186b4
+- There are two ways for a communication system to maintain its integrity over long periods of time: you need to decide for either highly technical specialization, or for a setup that incorporates coincidence and _ad hoc_ generated information. Translated to note collections: you can choose a setup categorized by topics, or an open one. ^4d2186b4
 
 - Naturally, a setup of a communicating system that is meant to be enduring, open, and not topically restricted (it is restricted by itself) needs to adhere to certain structural requirements. ^ba26e7c2
 
-- II. ^2d292155
+## II. ^2d292155
 
 - However, the external form just has an effect on convenience and not the power of the Zettelkasten. The inner workings, the arrangement of the notes, the mind of the Zettelkasten depend on a decision not to order notes by topics and subtopics, and instead choose an order with fixed placement. ^49fb18eb
 
